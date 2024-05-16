@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://flockkeeper.com/sitemap.xml
