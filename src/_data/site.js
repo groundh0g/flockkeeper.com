@@ -25,8 +25,8 @@ const fonticons = {
   },
 };
 
-const SITE_TITLE = 'Southern Fried Code';
-const SITE_EMAIL = 'hello@southernfriedcode.com';
+const SITE_TITLE = 'Flock Keeper';
+const SITE_EMAIL = 'hello@flockkeeper.com';
 
 const navbar = {
   // `icon` is the class name for your icon set
